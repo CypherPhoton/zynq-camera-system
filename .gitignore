@@ -45,3 +45,14 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#user setting
+
+Document/設計資料/*.pptx
+Document/設計資料/*.xlsx
+
+Project/Vivado_HLS/hls_isp/.*
+Project/Vivado_HLS/hls_isp/vivado_hls.app
+
+*.tcl
+*.directive
