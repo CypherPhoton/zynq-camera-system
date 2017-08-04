@@ -50,9 +50,11 @@ Temporary Items
 
 Document/設計資料/*.pptx
 Document/設計資料/*.xlsx
+Document/PDF/*
 
-Project/Vivado_HLS/hls_isp/.*
-Project/Vivado_HLS/hls_isp/vivado_hls.app
+Project/Vivado_HLS/HLS_ISP/vivado_hls.app
+Project/Vivado_HLS/HLS_ISP/.*
+Project/Vivado_HLS/HLS_ISP/solution1
 
 *.tcl
 *.directive
